@@ -11,7 +11,7 @@ A trait will help you connect to mongodb and do notification
 Via Composer
 
 ``` bash
-$ composer require alexzvn/laravel-mongo-notifiable
+$ composer require boytunghc/laravel-mongo-notifiable
 ```
 
 ## Usage
