@@ -1,0 +1,27 @@
+{
+    "name": "alexzvn/laravel-mongo-notifiable",
+    "type": "library",
+    "description": "A trait will help you connect to mongodb and do notification",
+    "keywords": [
+        "Alexzvn",
+        "laravel-mongo-notifiable"
+    ],
+    "homepage": "https://github.com/alexzvn/laravel-mongo-notifiable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "boytunghc@gmail.com",
+            "homepage": "https://github.com/alexzvn/laravel-mongo-notifiable",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.0|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Alexzvn\\LaravelMongoNotifiable\\": "src"
+        }
+    }
+}
