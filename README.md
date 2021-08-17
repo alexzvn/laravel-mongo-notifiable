@@ -40,11 +40,9 @@ If you discover any security related issues, please email boytunghc@gmail.com in
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/alexzvn/laravel-mongo-notifiable.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/boytunghc/laravel-mongo-notifiable.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/alexzvn/laravel-mongo-notifiable.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/alexzvn/laravel-mongo-notifiable.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/alexzvn/laravel-mongo-notifiable.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/boytunghc/laravel-mongo-notifiable.svg?style=flat-square
 
 [link-packagist]: https://packagist.org/packages/alexzvn/laravel-mongo-notifiable
 [link-downloads]: https://packagist.org/packages/alexzvn/laravel-mongo-notifiable
